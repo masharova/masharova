@@ -10,7 +10,7 @@ namespace ConsoleApplication1
 
     {
 
-        // Генерация массива
+   
 
         static private int[][] initArray()
         {
